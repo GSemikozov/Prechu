@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "devDependencies": {
+    "bootstrap-carousel-swipe": "0.0.6",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
