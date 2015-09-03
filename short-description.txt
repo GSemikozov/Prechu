@@ -12,3 +12,12 @@
 6. Верстка разумеется не pixel perfect
 
 7. Постарался учесть все требования, описанные в requirements
+
+8. Некоторые примеры моих работ:
+
+  http://gsemikozov.github.io/SPb-travel-agency/
+  http://www.imperial-stone.ru/
+
+  и собственно краткое веб-резюме:
+  http://gsemikozov.github.io/
+
